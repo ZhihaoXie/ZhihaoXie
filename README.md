@@ -1,4 +1,5 @@
 🧐 **About me**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhihaoxie&label=Profile%20views&color=0e75b6&style=flat" alt="zhihaoxie" /> </p>
 
 - 👋 Hi, I’m @ZhihaoXie, come from Guangxi, China.
 - 👀 I'm a bioinformatician, currently working on vaccine R&D, and previously studied microbic genomics, metagenomics, transcriptomics and phylogenetics, etc.
